@@ -1,3 +1,8 @@
-.div1{
+.div1, .div2 {
     background-color: tomato;
+}
+
+img{
+height: 400px;
+width:auto;
 }
